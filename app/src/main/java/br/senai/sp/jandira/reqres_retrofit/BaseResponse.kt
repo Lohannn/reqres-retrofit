@@ -8,4 +8,3 @@ data class BaseResponse<T>(
     var data: T? = null
 
 )
-
